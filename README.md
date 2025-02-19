@@ -8,6 +8,7 @@ This report provides an analytical summary of e-commerce transaction data. The d
 - Time-Based Analysis – Trends in transactions and revenue over time.
 
 ## Descriptive Analysis
+![ECommerceProject_page-0001](https://github.com/user-attachments/assets/b881a3dc-a4e5-4cf3-850e-8530c82b9c5a)
 - Customer Demographics:
   - The total number of customers is 200, with an average age of 42 years.
   - Gender distribution: 97 Female, 83 Male, and 20 classified as Other.
@@ -22,6 +23,7 @@ This report provides an analytical summary of e-commerce transaction data. The d
   - Electronics and Books are top-performing categories, signaling customer interest.
 
 ## Sales Analysis
+![ECommerceProject_page-0002](https://github.com/user-attachments/assets/98fdc9d8-ed5e-4cc9-a9cc-378dea233aa1)
 - Total Sales Performance:
   - The total revenue generated is $156.73K, with an average order value of $783.66.
 - Product Performance:
@@ -34,6 +36,7 @@ This report provides an analytical summary of e-commerce transaction data. The d
   - The high average order value ($783.66) suggests customers prefer bulk purchases or high-ticket items.
 
 ## Customer Behavior Analysis
+![ECommerceProject_page-0003](https://github.com/user-attachments/assets/10e31e1f-398e-474c-8ea8-777a2d2eb2e3)
 - Top Spenders: Customer 23 is the highest spender with $5.8K, followed by Customer 35 ($5.1K) and Customer 68 ($4.9K).
 - Preferred Payment Methods: Credit Card and PayPal transactions dominate, while Debit Card and Cash usage is lower.
 - Spending by Country: Canada has the highest spending at $46.99K, followed by the UK ($37.44K) and the USA ($29.26K).
@@ -44,6 +47,7 @@ This report provides an analytical summary of e-commerce transaction data. The d
   - The dominance of digital payments suggests a tech-adaptive customer base.
 
 ##  Time-Based Analysis
+![ECommerceProject_page-0004](https://github.com/user-attachments/assets/d0a1ed6d-427a-428c-acff-1e3044c6423a)
 - Peak Transaction Date: The highest number of transactions (3) occurred on August 30, 2022.
 - Weekly Transaction Trends: Transactions peak on Wednesday and Friday, indicating mid-week and pre-weekend shopping habits.
 - Monthly Revenue Trends: Revenue trends show a gradual increase from June to December, with peaks in September and December, indicating seasonal effects.
